@@ -1,0 +1,21 @@
+body {
+  background: url('assets/freedom.jpg') no-repeat center center fixed;
+  background-size: cover;
+  }
+q{
+  text-transform: uppercase;
+  font-family: Verdana;
+  margin: 0 auto;
+  }
+p {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 11px;
+  text-align: center;
+  margin: 50px; auto;
+}
+.main-quote {
+  text-align: center;
+  padding-top: 100px;
+}
+
